@@ -248,3 +248,120 @@ ps -ef | awk '{print$1,$3}'
 ps -ef | awk /start/ '{print$1,$3}'
 ps -ef | awk /start/'{print$1,$3}'
 clear
+cd
+git ls-files
+pwd
+ls
+git stash
+git stash list
+touch test9
+git add .
+git add . test9
+git status
+git stash test9
+git stash list
+gits status
+git status
+git stash test9
+git stash list
+clear
+touch file1
+vi file1
+cat file1
+rm file1
+ls
+vi file1
+cat file1
+ls
+git add .
+git status
+git commit -m"this is file1" 
+git status
+clear
+git stash
+git stash list
+git stash clear
+touch file2
+git add .
+git status
+git stash list
+git stash
+git stash list
+clear
+git diff
+git log --oneline
+git commit --amend -m'this is apple'
+git log --oneline
+git tag
+gittag
+git tag v1 a8850c7
+git tag
+git log --oneline
+vi gitignore
+vi file1
+vi gitignore file1
+cat file1
+vi gitignore file1
+cat file1
+cler
+clear
+git branch
+cd master
+touch test1 test2 test3
+vi test1 
+vi test2
+vi test1
+echo 'this is test'>test1
+cat test1
+echo 'this is test1'>test1
+cat test1
+vi test3
+git add .
+git status
+git commit -m'msg'
+git status
+git branch
+git branch feature
+git branch
+git checkout feature
+git branch
+vi test4
+vi test5
+vi test6
+git add .
+git commit -m'msg'
+git status
+git log --oneline
+git checkout master
+git log --oneline
+git log --oneline 01ca727 
+git log --oneline 70de2cb
+git branch
+git log --oneline 
+git log --oneline 1a4b711 
+git log --oneline 
+clear
+touch test8
+vi tets8
+cat test8
+vi test8
+cat test8
+git add .
+git commit -m'msg'
+git ls-files
+touch test9
+vi .gitignore 
+git add .
+git commit -m'msg'
+git ls-files
+cat test9
+clear
+touch file6
+git add .
+git commit -m'msg'
+touch file7
+vi .gitignore
+git add .
+git commit -m;msg'
+git add .
+
