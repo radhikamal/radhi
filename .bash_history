@@ -365,3 +365,48 @@ git add .
 git commit -m;msg'
 git add .
 
+ls
+cd
+ls
+vi file6
+git add .
+git commit -m'msg'
+vi .ignore
+git add .
+git commit -m'msg'
+git ls-files
+cat file7
+clear
+vi .gitignore
+git add .
+git commit -m"this is git ignore"
+git status
+git ls-files
+clear
+touch test 4
+ls
+touch test4
+ls
+vi .gitignore
+git add .
+git commit -m"this is radhi"
+git status
+git ls-files
+vi .gitignore
+ls
+clear
+vi .gitignore
+ls
+git add .
+git commit -m"msg"
+touch test11
+vi .gitignore
+ls
+git add .
+git commit -m"msg'
+cd
+ls
+git commit -m"msg"
+git status
+git ls-files
+vi .git ignore
