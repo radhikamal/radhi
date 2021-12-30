@@ -410,3 +410,241 @@ git commit -m"msg"
 git status
 git ls-files
 vi .git ignore
+cd
+vi .gitignore
+git add .
+git commit -m"msg"
+touch tets12
+touch test12
+vi .gitignore
+git add .
+git commit -m"mdg"
+git ls-files
+vi .gitignore
+clear
+vi .gitignore
+git add .
+git commit -m"msg"
+touch test15
+git add .
+git commit -m"msg"
+ls
+git ls-files
+vi .gitignore
+git add .
+git commit -m"msg"
+ls
+git ls-files
+cat .gitignore
+clear
+vi .gitignore
+git add .
+git commit -m"aaa"
+git status
+touch test22
+vi .gitignore
+git add .
+git commit -m"aaa"
+git ls-files
+vi .gitignore
+clear
+ls
+rm test11 test1 test15
+ls
+rm test12 test22 tset4 test9 test8 test12
+rm test12 test22 test4 test9 test8 test12
+ls
+rm tets12 test2 test test3 tets8 4
+ls
+rm gitignore
+ls
+clear
+ls -la
+clear
+git ls-files
+git rm gitignore
+ls
+git ls-files
+vi .gitignore
+git add .
+git commit -m"msg"
+git status
+git ls-files
+touch test1
+vi .gitignore
+git add .
+git commit -m"msg"
+git status
+ls
+git ls-files
+vi .gitignore
+clear
+ls la
+ls -la
+clear
+git branch
+ls
+rm file3
+rm file4
+rm file6
+ls
+rm tets1
+rm test1
+ls
+rm file7
+ls
+git branch feature
+ls
+git branch feature1
+git checkout feature
+git checkout feature1
+ls
+git checkout master
+touch file2 file3 file4
+git checkout feature1
+touch test1 test2 test3
+ls
+git checkout master
+git rebase feature1
+clear
+git branch
+git branch del
+git branch 
+touch file1
+git add .
+git commit -m"msg"
+touch file2
+git add .
+git commit -m"msg"
+touch file3
+git add .
+git commit -m"msg"
+git checkout feature1
+ls
+touch test2
+git add .
+git commit -m"msg"
+touch test3
+git add .
+git commit -m"msg"
+touch test4
+git add .
+git commit -m"msg"
+git rebase master
+git log --oneline
+git branch
+git log --oneline
+clear
+ls
+rm file1 file2 file3 file4 test1 test2 tets3 test4
+ls
+rm tets3
+ls
+rm test3
+ls
+git branch
+git checkout master
+ls
+
+git add .
+git commit -m"msg"
+touch file2
+git add .
+git commit -m"msg"
+touch file3
+git add .
+git commit -m"msg"
+git log --oneline
+git checkout feature1
+ls
+git status
+git rebase master
+git log --oneline
+clear
+git branch -d del
+git branch -d feature
+git branch -d feature1
+git branch 
+clear
+ubuntu
+adduser anjali
+mkdir movie
+cd movie
+vi movie
+cat movie
+git init
+git branch
+git status
+git add .
+git status
+git commit -m"msg"
+git status
+git branch feature9
+git checkout feature9
+ls
+cat movie
+git add .
+git commit -m"msg"
+git status
+git checkout master
+git merge feature9
+git status
+git checkout feature9
+ls
+vi movie
+cat movie
+git add .
+git commit -m"msg"
+git status
+git branch
+git checkout master
+git merge feature9
+git status
+cat movie
+git checkout feature9
+cat movie
+vi movie
+git add .
+git commit -m"msg"
+git checkout master
+git merge feature9
+git status
+vi movie
+git checkout feature9
+cat movie
+clear
+git ls-files
+git branch
+git checkout master
+ls
+git ls-files
+vi movie1
+git add .
+git commit -m "this is my movie1"
+git status
+ls
+git ls-files
+git log --oneline
+git checkout feature9
+ls
+git ls-files
+vi movie1
+git add .
+git commit -m "so beautiful"
+git status
+cat movie1
+git checkout master
+cat movie1
+git merge feature9
+cat movie1
+vi movie1
+cat movie1
+git merge feature9
+git add .
+git commit -m" merge "
+git status
+git merge feature9
+git status
+clear
+ccd
+cd
